@@ -1,34 +1,30 @@
 # Expressive Interaction Design using Facial Muscles as Controllers
 
-**Abstract:**
-[Brief summary of the research]
+**A novel system for controlling virtual avatars through facial muscle movements.**
 
-**Introduction:**
-[Expand on the research problem, motivation, and background]
+## Problem Statement
+Facial muscle weakness can significantly impact social interaction and quality of life. Existing rehabilitation methods often have limitations.
 
-**Methodology:**
-* **Participants:** [Brief description of participants]
-* **Materials:** [List of hardware and software used]
-* **Procedures:** [Outline of research methods]
-* **Data Analysis:** [Describe data analysis techniques]
+## Methodology
+Developed a system using EMG sensors to capture facial muscle activity. This data is processed and used to control the facial expressions of a virtual avatar in a real-time environment.
 
-**Results:**
-[Summarize key findings and implications]
+## Results
+The system successfully demonstrated the ability to map facial muscle movements to avatar expressions. Initial user feedback was positive, indicating potential for rehabilitation and social interaction.
 
-**Conclusion:**
-[Recapitulate main points and discuss future directions]
-
-**Technology Stack:**
+## Technology Stack
 * Unity
 * Arduino
 * EMG sensors
 * [Other relevant technologies]
 
-**Contributing:**
-[Indicate if you welcome contributions]
+## Usage
+[Brief instructions on how to use the project, if applicable]
 
-**License:**
+## Contributing
+[Guidelines for contributions]
+
+## License
 [Specify license]
 
-**Contact:**
+## Contact
 [Your contact information]

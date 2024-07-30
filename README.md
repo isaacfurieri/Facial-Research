@@ -1,7 +1,7 @@
 # Expressive Interaction Design using Facial Muscles as Controllers
 [Expressive Interaction Design Using Facial Muscles as Controllers](https://www.academia.edu/119107491/Expressive_Interaction_Design_Using_Facial_Muscles_as_Controllers)
 
-**A novel system for controlling virtual avatars through facial muscle movements.**
+**A system for controlling virtual avatars through facial muscle movements.**
 
 ## Problem Statement
 Facial muscle weakness can significantly impact social interaction and quality of life. Existing rehabilitation methods often have limitations.
